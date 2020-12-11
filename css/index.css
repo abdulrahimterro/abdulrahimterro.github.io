@@ -1,0 +1,218 @@
+body {
+    font-family: "Montserrat";
+    font-weight: 500;
+    text-align: center;
+    /* background-color: #222831; */
+    background-color: #0b0c10;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 700;
+    font-size: 1.7rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding-inline-start: 0;
+  }
+  
+  li {
+    padding-top: 5px;
+  }
+  
+  hr {
+    border: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: auto;
+  }
+  
+  /* Headings */
+  
+  .big-heading {
+    font-weight: 900;
+    font-size: 2rem;
+    color: #eeeeee;
+  }
+  
+  .name-heading {
+    font-family: "Sacramento", cursive;
+    font-size: 2.5rem;
+    line-height: 1.5;
+    color:rgb(161, 20, 20);
+  }
+  
+  .section-heading {
+    font-size: 2.5rem;
+    padding-top: 5%;
+    line-height: 1.5;
+    color:rgb(161, 20, 20);
+  }
+  
+  /* Sections */
+  
+  .colored-section {
+     color: #eeeeee; 
+    /* color: #c3073f; */
+  }
+  
+  .white-section {
+    background-color: #1f2833;
+    /* color: #222831; */
+    color: #66fcf1;
+  }
+  
+  /* Containers */
+  
+  .container-fluid {
+    padding: 7% 15%;
+  }
+  
+  /* Navigation bar */
+  
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .navbar-brand {
+    font-family: "Sacramento", cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
+    /* color: #222831; */
+    color: #66fcf1;
+  }
+  
+  .nav-link {
+    font-weight: 400;
+    font-size: 1.2rem;
+    /* color: #222831; */
+    color: #66fcf1;
+  }
+  
+  /* Title Section */
+  
+  #title .container-fluid {
+    padding: 3% 15% 10%;
+  }
+    
+  @media (min-width: 992px) {
+    .big-heading {
+      font-size: 4rem;
+    }
+  
+    .asgardian {
+      width: 30%;
+    }
+  }
+  
+  /* About Section */
+  #About .container-fluid {
+    padding: 7% 15% 15%;
+  }
+  
+  .about-text {
+    font-size: 1.2rem;
+  }
+  
+  @media (min-width: 992px) {
+    .name-heading {
+      font-size: 4rem;
+    }
+  }
+  
+  /* What I Can Do Section */
+  
+  #what-I-can-do .container-fluid {
+    padding: 7% 5%;
+  }
+  
+  .wicd {
+    margin-top: -18%;
+  }
+  
+  .card-img-top {
+    width: 25%;
+    padding: 3%;
+    margin: auto;
+  }
+  
+  .card {
+    padding: 3%;
+    background-color: #0006;
+    color: #66fcf1;
+    border: 0;
+  }
+  
+  .card-title {
+    font-weight: 700;
+  }
+  
+  .list-title {
+    margin-top: 3rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+  }
+  
+  h5.card-title{
+    color: rgb(161, 20, 20);
+  }
+  p.card-text{
+    color: #eeeeee;
+  }
+  /* Education & Skills Section */
+  
+  .skill-title {
+    font-weight: 500;
+    font-size: 1.7rem;
+    padding: 5% 0 3%;
+  }
+  ul.skills{
+    color:#eeeeee
+  }
+  p.skills{
+    color:#eeeeee
+  }
+
+  
+  /* Contact Me Section */
+  
+  .btn {
+    margin-top: 10%;
+    background-color: #000000;
+  }
+  
+  .btn:hover {
+    background-color: #393e46;
+  }
+  .contact-messege{
+    color: #eeeeee;
+  }
+  h3.contact-messege{
+    color: #66fcf1;
+  }
+  /* Footer Section */
+  
+  #footer {
+    padding: 7% 15%;
+  }
+  
+  .icon {
+    padding: 20px;
+  }
+  
+  a {
+    color: #eeeeee;
+  }
+  
+  a:hover {
+    color: #393e46;
+  }
+
+
+  
+  
