@@ -2,7 +2,6 @@ body {
     font-family: "Montserrat";
     font-weight: 500;
     text-align: center;
-    /* background-color: #222831; */
     background-color: #0b0c10;
   }
   
@@ -58,12 +57,10 @@ body {
   
   .colored-section {
      color: #eeeeee; 
-    /* color: #c3073f; */
   }
   
   .white-section {
     background-color: #1f2833;
-    /* color: #222831; */
     color: #66fcf1;
   }
   
@@ -83,14 +80,12 @@ body {
     font-family: "Sacramento", cursive;
     font-size: 1.5rem;
     font-weight: bold;
-    /* color: #222831; */
     color: #66fcf1;
   }
   
   .nav-link {
     font-weight: 400;
     font-size: 1.2rem;
-    /* color: #222831; */
     color: #66fcf1;
   }
   
@@ -212,7 +207,3 @@ body {
   a:hover {
     color: #393e46;
   }
-
-
-  
-  
